@@ -1,0 +1,11 @@
+.button {
+    background-color: red;
+}
+
+.primary {
+    border-radius: 25px;
+}
+
+.secondary {
+    padding: 10px;
+}
